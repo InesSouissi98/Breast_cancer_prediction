@@ -9,8 +9,8 @@ The mammogram images will be preprocessed using Data Pipeline.
 Several deep learning models such as VGG16, VGG19, ResNet50, ResNet101, MobileNet, DenseNet201, EfficientNetB7, Xception and InceptionResNetV2 will be tested and evaluated for their performance in classifying the mammogram images as highly alignant or probably benign or biopsy needed. The best-performing model will be selected. They will be evaluated using accuracy as a performance metric.
 
 **Tools :**
-Programming language: Python.
-Data processing  libraries: pandas, NumPy and scikit-learn.
-deep learning libraries: TensorFlow, and Keras.
+Programming language: Python. <br >
+Data processing  libraries: pandas, NumPy and scikit-learn. <br >
+deep learning libraries: TensorFlow, and Keras. <br >
 Deep learning models: VGG16, VGG19, ResNet50, ResNet101, MobileNet, DenseNet201, EfficientNetB7, Xception and InceptionResNetV2.
 
