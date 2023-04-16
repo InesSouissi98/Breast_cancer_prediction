@@ -10,7 +10,7 @@ Several deep learning models such as VGG16, VGG19, ResNet50, ResNet101, MobileNe
 
 **Tools :** <br>
 Programming language: Python. <br >
-Data processing  libraries: pandas, NumPy and scikit-learn. <br >
+Data processing  libraries: Pandas, NumPy and scikit-learn. <br >
 deep learning libraries: TensorFlow, and Keras. <br >
 Deep learning models: VGG16, VGG19, ResNet50, ResNet101, MobileNet, DenseNet201, EfficientNetB7, Xception and InceptionResNetV2.
 
